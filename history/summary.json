@@ -1,10 +1,10 @@
 [
   {
     "name": "Relinks",
-    "url": "https://relinks.co/",
+    "url": "https://api.relinks.co/healthz",
     "slug": "relinks",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1882
+    "time": 1102
   }
 ]
