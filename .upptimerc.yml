@@ -5,17 +5,17 @@ repo: relinks-status # Your Github repository name
 # Add your sites here
 sites:
   - name: Relinks
-    url: https://relinks.co/
+    url: https://api.relinks.co/healthz
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.relinks.co
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/chillgroup/relinks-status/master/logo-relinks.png
   name: Relinks status
   introTitle: "**Relinks status** is the uptime monitor page."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: Monitoring page of Relinks
   navbar:
     - title: Status
       href: /
