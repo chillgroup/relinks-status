@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/chillgroup/relinks-status/master/logo-relinks.png
   name: Relinks status
   introTitle: "**Relinks status** is the uptime monitor page."
-  introMessage: Monitoring page of Relinks
+  introMessage: Logging, monitoring, creating issues and generating graph from Relinks.co
   navbar:
     - title: Status
       href: /
