@@ -2,6 +2,7 @@
   {
     "name": "Relinks",
     "url": "https://api.relinks.co/healthz",
+    "icon": "https://favicons.githubusercontent.com/api.relinks.co",
     "slug": "relinks",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 548,
-    "timeWeek": 521,
-    "timeMonth": 521,
-    "timeYear": 521
+    "time": 506,
+    "timeDay": 368,
+    "timeWeek": 506,
+    "timeMonth": 506,
+    "timeYear": 506,
+    "dailyMinutesDown": {}
   }
 ]
