@@ -1,7 +1,7 @@
-url: https://api.relinks.co/healthz  
+url: https://api.relinks.co/healthz
 status: up
 code: 200
-responseTime: 204
-lastUpdated: 2021-01-05T23:25:25.510Z
+responseTime: 257
+lastUpdated: 2021-01-06T23:26:38.802Z
 startTime: Tue Dec 01 2020 01:46:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
